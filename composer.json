@@ -1,5 +1,5 @@
 {
-    "name": "sankartest/module-paymenttest-2.0.0",
+    "name": "sankartest/module-paymenttest",
     "description": "Testing magneto github",
     "version": "1.0.0",
     "type": "magento2-module",
