@@ -19,11 +19,9 @@
             "Hexasoft\\FraudLabsPro\\": ""
         }
     },
-    {
     "extra": {
         "branch-alias": {
             "dev-master": "2.0.1"
         }
     }
-  }
 }
